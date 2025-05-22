@@ -1,10 +1,10 @@
-package RequesThridPartyAPI.Calling.Third.Party.Api.and.Merge.with.our.Api;
+package Rest.ThirdPartApiIntegration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CallingThirdPartyApiAndMergeWithOurApiApplicationTests {
+class ThirdPartApiIntegrationApplicationTests {
 
 	@Test
 	void contextLoads() {
